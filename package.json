@@ -1,0 +1,14 @@
+{
+  "name": "ai-chat-to-service-ticket",
+  "version": "1.0.0",
+  "description": "Website chat assistant for a trades business: answers questions, collects job details, opens an Odoo service ticket, hands off to a person. Chatwoot + n8n + LLM + Odoo.",
+  "license": "MIT",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test tests/*.test.js",
+    "build:workflow": "node scripts/build-workflow.js",
+    "check:workflow": "node scripts/build-workflow.js --check",
+    "scan": "bash scripts/secret-scan.sh"
+  }
+}
