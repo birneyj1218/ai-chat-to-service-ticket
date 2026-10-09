@@ -173,4 +173,4 @@ docker/         Postgres first-run script
 
 ---
 
-Built by Jim Birney · [evolvaiagents.com](https://evolvaiagents.com) · [Live chat demo](https://evolvaiagents.com/review/stonebridge-chat-demo.html) · [Video walkthrough](https://evolvaiagents.com/review/chatwoot-customer-bot-upwork.mp4)
+Built by Jim Birney · [evolvaiagents.com](https://evolvaiagents.com) · [Live chat demo](https://evolvaiagents.com/review/stonebridge-chat-demo.html) · [Video walkthrough](https://evolvaiagents.com/review/ai-chat-assistant-demo.mp4)
